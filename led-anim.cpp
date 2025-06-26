@@ -1,6 +1,4 @@
 // C++ code
-//
-//
 int animationSpeed = 400;
 
 void setup()
