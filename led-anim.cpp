@@ -22,6 +22,7 @@ void loop()
   delay(animationSpeed); 
   digitalWrite(11, LOW);
   delay(animationSpeed); 
-  animationSpeed=animationSpeed-50; 
-  if 
+  animationSpeed==animationSpeed-50; 
+  if (animationSpeed==50) 
+  {animationSpeed==400;}
 }
